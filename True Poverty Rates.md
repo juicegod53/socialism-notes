@@ -1,0 +1,15 @@
+# True Poverty Rates
+
+Reddit - u/Subliminary
+
+I applaud your mission to spread evidence-based optimism and agree that collectively things are better now than they’ve ever been. However, I need to point out some fatal flaws in the UN’s narrative of halving poverty that I keep seeing quoted around Reddit.
+
+The international poverty line has been severely criticised by development practitioners and economists alike, as the current line of $1.90 is absurdly low for a human to subsist on and is not linked to any wellbeing outcomes. Perhaps more damning is the fact that the narrative that poverty has halved only works if you include China; where virtually all the economic growth that created the new global middle class in the 1990s took place, and one of the few places the Western model of market driven development interventions was not applied[1].
+
+The international poverty line is calculated by simply taking an average of the poverty lines of the 10 countries at the bottom of the Human Development Index; the poorest in the world. Despite the fact that there’s massive variance in how much is needed to have something resembling a life in different countries, the line is applied everywhere. Congratulating ourselves and considering our model vindicated if someone is earning slightly more than $1.90 per day, glossing over the human misery that undoubtedly still persists is both immoral and inaccurate.
+
+I’d like to draw your attention to something called the ‘Ethical Poverty Line’, developed by Peter Edward of Newcastle University, which has also been described as a poverty line that is morally defensible. The EPL is calculated using health indicators, and identifying a consumption threshold under which life expectancy falls rapidly with falling consumption, and above which, life expectancy rises only slightly with rising consumption. It’s the income correlate of rock bottom as determined by physical health. The EPL is estimated at somewhere between 2.7 to 3.9 times the current international poverty line, or somewhere around $7.40 per day[2]. This is still next to nothing, however if we adopt this higher line we see that poverty has actually increased during the 2000-2015 period measured by the UN’s Millennium Development Goals, and that there are currently 4.2 billion people underneath this line, rather than the official absolute poverty figures of around 1 billion. To quote Edwards the unrealistically low poverty line: ‘… misleads policy makers, politicians and the public on both the extent of global poverty, and the scale of socio-economic change needed to remove absolute poverty.’
+
+[1] Peter Edward (2006) The ethical poverty line: a moral quantification of absolute poverty, Third World Quarterly, 27:2, 377-393, DOI: 10.1080/01436590500432739
+
+[2] Jason Hickel 2015 ‘Could you live on $1.90 per day? That’s the International Poverty Line’ https://www.theguardian.com/global-development-professionals-network/2015/nov/01/global-poverty-is-worse-than-you-think-could-you-live-on-190-a-day
