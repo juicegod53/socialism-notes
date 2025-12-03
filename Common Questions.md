@@ -44,13 +44,13 @@ The welfare states are contributed to by this resource extraction, this is also 
 
 Yes.
 
-[Do Publicly Owned, Planned Economies Work?](https://archive.is/t9JeG)
+[Do Publicly Owned, Planned Economies Work?](https://archive.is/t9JeG) - addresses common misconceptions about the USSR's economy, including rate of growth, the real benefits, and the truth behind what led to it's failure.
 
 [Did Socialism work in the USSR?](https://github.com/dessalines/essays/blob/main/capitalism_doesnt_work.md)
 
 The USSR had a more nutritious diet than the USA, higher calories consumed per person than the USA, the 2nd fastest growing economy of the 20th century (starting from semi-feudal), continuous growth for 70 years, free universal healthcare, most doctors per capita in the world, practically no unemployment.
 
-They moved to 41.6 hour work weeks before most of the world, had triple the amount of paid leave than the USA on average, free education at all levels, a 99% literacy rate, eradicated extreme poverty, and had socialized housing, practically no homelessness, housing was shared initially but developments were made later.
+They moved to 41.6 hour work weeks before most of the world, had triple the amount of paid leave than the USA on average, free education at all levels, a 99% literacy rate, eradicated extreme poverty, had socialized housing, and practically no homelessness, housing was shared initially but developments were made later.
 
 [How to do Socialism good: worker ownership, democracy, welfare](https://docs.google.com/document/d/1lI7eYo4BMIYpk8cnSvGHUvnbaAFzBThWHrvT59aZi0k/edit?tab=t.0)
 

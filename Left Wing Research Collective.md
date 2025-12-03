@@ -72,11 +72,11 @@
 
 ### Economics
 
-Add stuff on public ownership, progressive taxation, regulation
+Add stuff on progressive taxation
 
 [The Ideology of Political Economy - Google Docs](https://docs.google.com/document/d/1SoXf-8tA0Dem15KrzYuHHUyQlwtKQi8iyTEFMmTYQ1k/edit?tab=t.0)
 
-[How To Do Socialism Good](https://docs.google.com/document/d/1lI7eYo4BMIYpk8cnSvGHUvnbaAFzBThWHrvT59aZi0k/edit?tab=t.0)
+[How To Do Socialism Good: worker ownership, democracy, welfare](https://docs.google.com/document/d/1lI7eYo4BMIYpk8cnSvGHUvnbaAFzBThWHrvT59aZi0k/edit?tab=t.0)
 
 [On the Economic Calculation Problem](https://docs.google.com/document/d/1JUSdeJKh7mW0a97nt6IbwXy_4r9NxE2BNuq7XqomOzc/edit)
 
@@ -85,6 +85,8 @@ Add stuff on public ownership, progressive taxation, regulation
 [Research Shows Minimum Wage Increases Do Not Cause Job Loss](https://docs.google.com/file/d/1b5OiZXNWWYKTc9iVauf8rVJGkv9Pe8De/edit)
 
 [Debunking Welfare Lies - Google Docs](https://docs.google.com/document/d/1jM3CK34U64Bsp_vdNkZBGI3VWcI9LkdZKgca27oC20c/edit?tab=t.0)
+
+[Labor Regulations, Unions, and Social Protection in Developing Countries](https://www.researchgate.net/publication/228248332_Labor_Regulations_Unions_and_Social_Protection_in_Developing_Countries_Market_Distortions_or_Efficient_Institutions)
 
 #### Co-operatives
 
