@@ -66,7 +66,7 @@
 
 - Another massive variety of sources for general left views
 
-- Economics, LGBTQ+, Feminism, Abortion, Religion, Racism, Immigration, Imperialism, Vaccines, Energy, Climtae Change, Guns, Fascism, Libertarianisms
+- Economics, LGBTQ+, Feminism, Abortion, Religion, Racism, Immigration, Imperialism, Vaccines, Energy, Climate Change, Guns, Fascism, Libertarianisms
 
 ## Topic-Specific Research
 
@@ -127,6 +127,8 @@ Add stuff on public ownership, progressive taxation, regulation
 [Central Planners Handbook](https://docs.google.com/document/d/1TB077p-SrvSZ7bNb_fak9dRh-4U44kqzhgRYk5Jaabk/edit)
 
 [DId economic planning work?](https://github.com/dessalines/essays/blob/main/socialism_faq.md#did-economic-planning-work)
+
+[People's republic of Walmart: how the world's biggest corporations are laying the foundation for socialism](http://www.worldcat.org/oclc/1110266691)
 
 ### Healthcare
 

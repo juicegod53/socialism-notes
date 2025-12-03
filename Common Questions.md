@@ -24,6 +24,10 @@ Social democracies have consistently backslid to neoliberalism. This led to priv
 
 [Why Social Democracy Isn't Good Enough](https://www.youtube.com/watch?v=TRq3pl17C8M)
 
+[Neoliberalism and Post-Welfare Nordic States in Transition](https://www.academia.edu/22945264/Neoliberalism_and_Post_Welfare_Nordic_States_in_Transition)
+
+[The Neoliberalization of the Norwegian Welfare State: Public Investments in a Privatized Global Economy](https://www.scup.com/doi/10.18261/nwr.9.1.4)
+
 Social democracy still performs trade through exploitative markets, and engages in imperialism, via it's leverage of foreign capital for cheap commodity extraction, and production, through the exploitation of modern-day slaves in the Global South.
 
 The welfare states are contributed to by this resource extraction, this is also the reason why most successful attempts at social democracy, came from countries that were already heavily developed, and central members of the imperial core, and it typically failed in other countries.
@@ -40,34 +44,16 @@ The welfare states are contributed to by this resource extraction, this is also 
 
 Yes.
 
-[Communism Works](https://docs.google.com/document/d/1D3POmnFIQHKOprpTDRUHmQmmQv6XEKc3/edit)
+[Do Publicly Owned, Planned Economies Work?](https://archive.is/t9JeG)
 
-[Socialism FAQ](https://github.com/dessalines/essays/blob/main/socialism_faq.md)
+[Did Socialism work in the USSR?](https://github.com/dessalines/essays/blob/main/capitalism_doesnt_work.md)
 
-USSR had:
+The USSR had a more nutritious diet than the USA, higher calories consumed per person than the USA, the 2nd fastest growing economy of the 20th century (starting from semi-feudal), continuous growth for 70 years, free universal healthcare, most doctors per capita in the world, practically no unemployment.
 
-- More nutritious diet than the USA
+They moved to 41.6 hour work weeks before most of the world, had triple the amount of paid leave than the USA on average, free education at all levels, a 99% literacy rate, eradicated extreme poverty, and had socialized housing, practically no homelessness, housing was shared initially but developments were made later.
 
-- Higher calories consumed per person than the USA
+[How to do Socialism good: worker ownership, democracy, welfare](https://docs.google.com/document/d/1lI7eYo4BMIYpk8cnSvGHUvnbaAFzBThWHrvT59aZi0k/edit?tab=t.0)
 
-- 2nd fastest growing economy of the 20th century (starting from semi-feudal), continuous growth for 70 years
+[Socialism: Quality of life, approval ratings, authoritarianism](https://source-library.github.io/source-library/socialism)
 
-- Free universal healthcare
-
-- Most doctors per capita in the world
-
-- Practically no unemployment
-
-- Moved to 40 hour work weeks before most of the world
-
-- Triple the amount of paid leave than the USA on average
-
-- Free education at all levels
-
-- 99% literacy rate
-
-- Eradicated extreme poverty
-
-- Socialized housing, practically no homelessness, shared initially but developments made later
-
-Now the USSR was by no means perfect, before many of these benefits, there were devastating famines that killed millions. The liberalization from the post-Khrushchev era did not help with these things either.
+[Communism Works](https://docs.google.com/document/d/1D3POmnFIQHKOprpTDRUHmQmmQv6XEKc3/edit) - refers to council communism

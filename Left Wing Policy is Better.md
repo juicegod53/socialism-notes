@@ -2,12 +2,13 @@
 
 Left wing policy has consistently been shown to be better for the average worker, ensure better stability, and ensure their material conditions - those mainly being consistent low cost access to food and housing, free healthcare, free education, democracy, and strong communities to live in.
 
+Here are some of my general views on different aspects of policy.
+
 ## Government In Economy:
 
 - High government intervention is better
   
   - Reduces instabilities and market failures, reduces corporate misbehaviour, reduces impact on average worker in jobs and cost, monopoly dominance is restricted
-  - Federal regulations in the United States saved a net \$131-$636 billion over 10 years
 
 ## Taxation:
 
