@@ -122,6 +122,10 @@ Add stuff on progressive taxation
 
 [Wealth Inequality | Oxfam International](https://www.oxfam.org/en/tags/wealth-inequality)
 
+[Why wealth inequality matters](https://eprints.lse.ac.uk/123529/5/Why-wealth-inequality-matters.pdf)
+
+[How Wealth Inequality Shapes Our Futures](https://pmc.ncbi.nlm.nih.gov/articles/PMC5560613/#S17)
+
 #### State Planning
 
 [Ultimate #1 State Funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/edit)
@@ -131,6 +135,12 @@ Add stuff on progressive taxation
 [DId economic planning work?](https://github.com/dessalines/essays/blob/main/socialism_faq.md#did-economic-planning-work)
 
 [People's republic of Walmart: how the world's biggest corporations are laying the foundation for socialism](http://www.worldcat.org/oclc/1110266691)
+
+#### Taxation
+
+[Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+
+[Corporate tax cuts do not boost growth](https://www.socialeurope.eu/corporate-tax-cuts-do-not-boost-growth)
 
 ### Healthcare
 
