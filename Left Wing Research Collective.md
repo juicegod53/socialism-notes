@@ -142,7 +142,19 @@ Add stuff on progressive taxation
 
 ### Education
 
+[Rich Kids Stay Rich, Poor Kids Stay Poor](https://fivethirtyeight.com/features/rich-kids-stay-rich-poor-kids-stay-poor/)
+
+[Does education reduce income equality? A meta regression analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/joes.12056)
+
+[Access to education removes obstacles to intergenerational social mobility and promotes equality of opportunity](https://web.archive.org/web/20140309020246/https://www.oecd.org/centrodemexico/medios/44582910.pdf)
+
+[A Broken Social Elevator? How to Promote Social Mobility](https://www.oecd.org/en/publications/broken-elevator-how-to-promote-social-mobility_9789264301085-en.html)
+
 ### Transport
+
+[Public Transportation: Advantages and Challenges](https://pmc.ncbi.nlm.nih.gov/articles/instance/3456624/pdf/11524_2006_Article_341.pdf)
+
+[Eliminating Fares to Expand Opportunities: Experimental Evidence on the Impacts of Free Public Transportation on Economic and Social Disparities](https://www.aeaweb.org/articles?id=10.1257/pol.20230460)
 
 ### LGBTQ+
 
