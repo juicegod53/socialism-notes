@@ -14,7 +14,7 @@
 
 - India, USSR, China, Cuba, North Korea, Venezuela
 
-[Lefty Fact Sheet](https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit?tab=t.0)
+[Lefty Fact Sheet](https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit)
 
 - Large variety of sources for general left views
 
@@ -66,13 +66,11 @@
 
 - Another massive variety of sources for general left views
 
-- Economics, LGBTQ+, Feminism, Abortion, Religion, Racism, Immigration, Imperialism, Vaccines, Energy, Climate Change, Guns, Fascism, Libertarianisms
+- Economics, LGBTQ+, Feminism, Abortion, Religion, Racism, Immigration, Imperialism, Vaccines, Energy, Climate Change, Guns, Fascism, Libertarianism
 
 ## Topic-Specific Research
 
 ### Economics
-
-Add stuff on progressive taxation
 
 [The Ideology of Political Economy - Google Docs](https://docs.google.com/document/d/1SoXf-8tA0Dem15KrzYuHHUyQlwtKQi8iyTEFMmTYQ1k/edit?tab=t.0)
 
@@ -126,6 +124,18 @@ Add stuff on progressive taxation
 
 [How Wealth Inequality Shapes Our Futures](https://pmc.ncbi.nlm.nih.gov/articles/PMC5560613/#S17)
 
+#### Poverty
+
+[Transitioning from socialism to liberal democracy made it harder for Mongolia to reduce poverty](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1041&context=soc_work_pubs)
+
+[Capitalism, Global Poverty, the Case for Democratic Socialism](https://www.researchgate.net/publication/372651080_Capitalism_Global_Poverty_the_Case_for_Democratic_Socialism_and_Darul_Islam)
+
+[Capitalism and extreme poverty: A global analysis of real wages, human height, and mortality since the long 16th century](https://www.sciencedirect.com/science/article/pii/S0305750X22002169)
+
+[Capitalism has not reduced global poverty to a good extent](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty)
+
+[Capitalism and the Production of Poverty](https://mronline.org/2024/01/15/capitalism-and-the-production-of-poverty/)
+
 #### State Planning
 
 [Ultimate #1 State Funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/edit)
@@ -138,9 +148,13 @@ Add stuff on progressive taxation
 
 #### Taxation
 
+[The Case for a Progressive Tax: From Basic Research to Policy Recommendations](https://www.aeaweb.org/articles?id=10.1257/jep.25.4.165)
+
 [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 
 [Corporate tax cuts do not boost growth](https://www.socialeurope.eu/corporate-tax-cuts-do-not-boost-growth)
+
+[Higher tax progressivity decreases intergenerational income equality](https://web.archive.org/web/20140309020246/https://www.oecd.org/centrodemexico/medios/44582910.pdf)
 
 ### Healthcare
 
@@ -201,8 +215,6 @@ Add stuff on progressive taxation
 [The Dynamics of International Exploitation](https://www.boeckler.de/pdf/v_2022_10_22_veneziani.pdf)
 
 [The Development Delusion: Foreign Aid and Inequality](https://americanaffairsjournal.org/2017/08/development-delusion-foreign-aid-inequality/)
-
-[Palestine: a Comprehensive Document for Palestinian Liberation](https://docs.google.com/document/d/1cUnwWkLUNrD5AaTEVmgFwnVXXUDFEVsUv4cF-AcokTQ/edit?tab=t.0)
 
 ### Immigration
 
