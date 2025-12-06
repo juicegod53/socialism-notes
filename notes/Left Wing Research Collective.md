@@ -256,6 +256,8 @@
 
 ### Abortion
 
+[The Turnaway Study](https://www.ansirh.org/research/ongoing/turnaway-study)
+
 [Thinking Critically About Abortion](https://www.abortionarguments.com/p/full-text.html)
 
 [Defending Feminism - Responses to Pro Life Arguments](https://defendingfeminism.com/responses/)
